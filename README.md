@@ -16,6 +16,6 @@ Features
 How to Run
 
 Terminal
-npm install
-npx playwright install
-node index.js
+-npm install
+-npx playwright install
+-node index.js
